@@ -1,6 +1,10 @@
-# imcflutter
+# imcf_lutter
 
-A new Flutter application.
+Flutter application for BMI calculation
+
+## Screen Shoots
+<img src="https://uploaddeimagens.com.br/images/002/705/059/original/1.jpg">
+<img src="https://uploaddeimagens.com.br/images/002/705/061/full/2.jpg">
 
 ## Getting Started
 
