@@ -1,4 +1,4 @@
-# imcf_lutter
+# BMI_Flutter
 
 Flutter application for BMI calculation
 
